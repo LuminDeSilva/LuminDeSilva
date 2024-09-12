@@ -1,7 +1,5 @@
 # Hi there, I'm Lumin! 👋
 
-![GitHub Banner](https://your-image-link-here.com/banner.png)
-
 ## 🚀 About Me
 
 I'm a passionate developer with a focus on backend development and cloud-based solutions. Currently, I'm diving deep into building efficient and scalable systems using Node.js, Express, Spring Boot, and ServiceNow. I love contributing to open-source projects and exploring new technologies to enhance user experiences.
@@ -32,9 +30,9 @@ I'm a passionate developer with a focus on backend development and cloud-based s
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lumin-de-silva/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuminDeSilva)
 
 ---
 
