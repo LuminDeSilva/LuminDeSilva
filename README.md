@@ -5,7 +5,7 @@
 I'm a passionate developer with a focus on backend development and cloud-based solutions. Currently, I'm diving deep into building efficient and scalable systems using Node.js, Express, Spring Boot, and ServiceNow. I love contributing to open-source projects and exploring new technologies to enhance user experiences.
 
 - 💬 Ask me about **Backend Development, Node.js, Spring Boot, LLMs, Cloud Integrations**  
-- 📫 How to reach me: **[Your Email/LinkedIn/GitHub]**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/lumin-de-silva/)**  
 
 ---
 
