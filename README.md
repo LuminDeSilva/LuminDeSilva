@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Lumin! 👋
 
 ![GitHub Banner](https://your-image-link-here.com/banner.png)
 
@@ -37,7 +37,6 @@ I'm a passionate developer with a focus on backend development and cloud-based s
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
 
 ---
-## Hi there 👋
 
 <!--
 **LuminDeSilva/LuminDeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
