@@ -18,13 +18,6 @@ I'm a passionate developer with a focus on backend development and cloud-based s
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-0E96E0?style=for-the-badge&logo=ServiceNow&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuminDeSilva&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
 
 ---
 
