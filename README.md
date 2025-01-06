@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-I am a passionate Software Engineer with a solid foundation in SRE, full-stack development and DevOps practices. I thrive on solving complex problems and building scalable, efficient solutions. With hands-on experience in Spring Boot, Angular, ServiceNow, and cloud technologies like AWS and Azure, I aim to deliver impactful contributions to projects.
+I am a passionate Software Engineer with a solid foundation in SRE, full-stack development and DevOps practices. I thrive on solving complex problems and building scalable, efficient solutions. With hands-on experience in  ServiceNow, Terraform, Express.js, React and cloud technologies like AWS and Azure, I aim to deliver impactful contributions to projects.
 
 In addition to my technical skills, I enjoy learning new tools and technologies to stay ahead in the ever-evolving tech landscape. When I’m not coding, I explore ways to share knowledge and give back to the tech community.
 
 
-- 💬 Ask me about **ServiceNow, Terraform, Backend Development, LLMs, Cloud Integrations**  
+- 💬 Ask me about **ServiceNow, Terraform, Backend Development, LLMs, Cloud Technologies**  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/lumin-de-silva/)**  
 
 ---
