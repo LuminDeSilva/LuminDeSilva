@@ -7,7 +7,7 @@ With experience across **Azure**, **AWS**, and **GCP**, I bring a multi-cloud mi
 
 Currently exploring AI/LLM integrations and working on developing an **XDR SaaS product** using open-source technologies.
 
-When I’m not solving infrastructure problems, I enjoy contributing to open source, automating repetitive tasks, and sharing knowledge with the tech community.
+When I’m not solving infrastructure problems, I enjoy contributing to open source, automating repetitive tasks, and sharing knowledge with others.
 
 ---
 
